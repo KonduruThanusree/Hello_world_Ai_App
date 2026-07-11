@@ -1,4 +1,4 @@
-# Hello_world_Ai_App
+# Simple Regression Predictor
 This is a basic Streamlit dashboard demonstrating a simple linear regression model.It allows you to input a value using a slider and outputs the model,s prediction.
 
 ## Features

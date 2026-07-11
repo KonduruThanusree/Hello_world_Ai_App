@@ -3,8 +3,8 @@ import numpy as np
 from model import train
 
 #title
-st.title("Hello world AI App")
-st.subheader("A simple regression model")
+st.title("Simple Regression Predictor")
+st.write("Predict the output of a simple regression model")
 
 #train model
 model=train()
